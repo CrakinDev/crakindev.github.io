@@ -2,7 +2,7 @@ main:
   - title: "Code Review"
     url: /_pages/code_review
   - title: "Enhancements"
-    url: /_pages/enhancements/
+    url: /_pages/enhancements
   - title: "Project Summary"
     url: /_pages/project_summary
   - title: "Professional Assessment"
