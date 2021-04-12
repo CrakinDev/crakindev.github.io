@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Enhancements
-permalink: /project_enhancements
+permalink: /project_enhancements/
 ---
 
 ## Application Discord Bot
