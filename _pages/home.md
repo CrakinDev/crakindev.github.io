@@ -26,14 +26,14 @@ feature_row2:
   - image_path: /images/enhancement-one.jpg
     alt: "Project Enhancement One"
     title: "Project Enhancement One"
-    excerpt: "Discord bot development via DiscordJS Node module"
+    excerpt: "Discord bot development via DiscordJS Node module."
     url: "https://crakindev.github.io/portfolio/enhancement-1/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/enhancement-two.jpg
     alt: "placeholder image 2"
     title: "Project Enhancement Two"
-    excerpt: "Application API server development with Express"
+    excerpt: "Application API server development with Node/Express."
     url: "https://crakindev.github.io/portfolio/enhancement-2/"
     btn_label: "Read More"
     btn_class: "btn--primary"
