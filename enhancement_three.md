@@ -5,14 +5,17 @@ title: Enhancement Three
 
 ## Artifact
 ---
-	The artifact for this enhancement category is the Express-based NodeJS API server again. Its main purpose is to be a one-stop shop for both the Discord bot and web Dashboard’s to source data. This ensures the data is centrally located and both applications use and handle the same data through common accessing means. This enhancement addresses actual fetching of player activity data and storing it to a collection in the Mongo database under the “guardian-activities” collection.
-	The initial creation was just after the Discord bot during week 1 of the term. It was setup as a working listening server, but without any useful developed endpoints or database accessing logic. It was then enhanced as part of the Milestone Three requirements to add endpoints for the bot/dashboard to access.
+The artifact for this enhancement category is the Express-based NodeJS API server again. Its main purpose is to be a one-stop shop for both the Discord bot and web Dashboard’s to source data. This ensures the data is centrally located and both applications use and handle the same data through common accessing means. This enhancement addresses actual fetching of player activity data and storing it to a collection in the Mongo database under the “guardian-activities” collection.
+
+The initial creation was just after the Discord bot during week 1 of the term. It was setup as a working listening server, but without any useful developed endpoints or database accessing logic. It was then enhanced as part of the Milestone Three requirements to add endpoints for the bot/dashboard to access.
 
 ## Improvements
 ---
-	The improvements made were mainly fetching/handling the data of the activities endpoint. The data must be fetched from the Bungie API, processed, and then stored to the Mongo database.
-Last week the activities endpoint was created. This endpoint used the associated account data to lookup activity results from the type specified. This endpoint now uses the “GetActivityHistory” Bungie API endpoint to fetch data pertaining to all characters. The JSON response is now parsed for the relevant data we want to keep. An object is created for each individual activity returned with the values kept encapsulated. These objects are then pushed into an array until all returned activities are parsed. Once completed, the array is then written to the Mongo database, stringified and returned as a response to the requesting application.
+The improvements made were mainly fetching/handling the data of the activities endpoint. The data must be fetched from the Bungie API, processed, and then stored to the Mongo database.
+
+Enhancement two created the activities endpoint. This endpoint used the associated account data to lookup activity results from the type specified. This endpoint now uses the “GetActivityHistory” Bungie API endpoint to fetch data pertaining to all characters. The JSON response is now parsed for the relevant data we want to keep. An object is created for each individual activity returned with the values kept encapsulated. These objects are then pushed into an array until all returned activities are parsed. Once completed, the array is then written to the Mongo database, stringified and returned as a response to the requesting application.
 Example Activity Response from Bungie API (single activity, each activity has an entry in the activities array of the response):
+
 ```json
 "Response":{
          "activities":[
@@ -157,10 +160,10 @@ Example Activity Response from Bungie API (single activity, each activity has an
  
 ## Objectives
 ---
-	All original objectives were met, though if additional data wants to be fetched or kept from the activity fetch, the database schema would have to be modified. This can be easily done by modifying the database schema object in the application API when fetching data from the database. The applications are then free to use the added data in the response. This makes scalability much easier.
+All original objectives were met, though if additional data wants to be fetched or kept from the activity fetch, the database schema would have to be modified. This can be easily done by modifying the database schema object in the application API when fetching data from the database. The applications are then free to use the added data in the response. This makes scalability much easier.
  
 ## Reflection
 ---
-	I have been thoroughly enjoying the simplicity of MongoDB in general and the ease of use when integrating into web applications. Using simple database schemas in a accessing applications also ensures accessing data is kept tidy and scalable. My next milestone/narrative will include the dashboard which should tie the entire application together. The final submission will also include screenshots of processing/usage of the application so that it can all be visualized since accessing anything relevant requires a Discord account, but more importantly, actual activity in the game itself.
+I have been thoroughly enjoying the simplicity of MongoDB in general and the ease of use when integrating into web applications. Using simple database schemas in a accessing applications also ensures accessing data is kept tidy and scalable. My next milestone/narrative will include the dashboard which should tie the entire application together. The final submission will also include screenshots of processing/usage of the application so that it can all be visualized since accessing anything relevant requires a Discord account, but more importantly, actual activity in the game itself.
 
 
