@@ -3,6 +3,9 @@ layout: page
 title: Enhancement One
 ---
 
+## Project
+---
+[Xandrion Discord Bot](https://github.com/CrakinDev/xandrion2-bot)
 
 ## Artifact
 ---
