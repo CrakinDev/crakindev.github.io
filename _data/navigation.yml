@@ -1,0 +1,13 @@
+main:
+  - title: "Code Review"
+    url: /_pages/code_review
+  - title: "Enhancement One"
+    url: /_pages/enhancement_one
+  - title: "Enhancement Two"
+    url: /_pages/year-archive/
+  - title: "Enhancement Three"
+    url: /_pages/categories/
+  - title: "Project Summary"
+    url: /_pages/tags/
+  - title: "Professional Assessment"
+    url: /_pages/page-archive/
