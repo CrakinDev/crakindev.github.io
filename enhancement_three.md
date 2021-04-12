@@ -163,6 +163,8 @@ Example Activity Response from Bungie API (single activity, each activity has an
                }
             }
 ```
+Example Activity Entry:
+![Image of Activity Entry](https://github.com/CrakinDev/crakindev.github.io/images/ActivityEntry.png)
 
 ## Objectives
 ---
