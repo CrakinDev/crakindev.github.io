@@ -1,62 +1,67 @@
 ---
-title: "CS-499 Capstone Final Project"
+title: "Splash Page"
 layout: splash
-permalink: /
-date: 2021-04-12T15:08:00-05:00
+permalink: /splash-page/
+date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/splash-header.jpg
+  overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
-    - label: "Get Started"
-      url: "https://crakindev.github.io/project_summary/"
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "This project encompasses an ambitious full-stack application development utilizing a third-party game API supplied by Bungie Studios to aggregate player data, store in a MongoDB database and display in a front-end web dashboard. Additional connectivity is also available via a Discord bot developed with DiscordJS."
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: 'Main Excerpt'
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: /images/unsplash-gallery-image-2-th.jpg
-    alt: "Application Code Review"
-    title: "Application Code Review"
-    excerpt: 'Code review of all aspects of existing application boilerplate plus best practices. Code review video included.'
-    url: "https://crakindev.github.io/code_review/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row2:
-  - image_path: /images/unsplash-gallery-image-1-th.jpg
-    alt: "Project Enhancement One"
-    title: "Project Enhancement One"
-    excerpt: "Discord bot development via DiscordJS Node module"
-    url: "https://crakindev.github.io/portfolio/enhancement-1/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /images/unsplash-gallery-image-2-th.jpg
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Project Enhancement Two"
-    excerpt: "Application API server development with Express"
-    url: "https://crakindev.github.io/portfolio/enhancement-2/"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/unsplash-gallery-image-3-th.jpg
-    title: "Project Enhancement Three"
-    excerpt: "Application API server completion and React-based web dashboard."
-    url: "https://crakindev.github.io/portfolio/enhancement-3/"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row2:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /images/unsplash-gallery-image-2-th.jpg
-    alt: "Professional Self-Assessment"
-    title: "Professional Self-Assessment"
-    excerpt: 'My educational journey, CS program reflection, and professional experiences.'
-    url: "https://crakindev.github.io/professional_assessment/"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" %}
+{% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
