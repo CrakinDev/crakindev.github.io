@@ -11,6 +11,8 @@ header_pages:
   - enhancement_one.md
   - enhancement_two.md
   - enhancement_three.md
+  - project_summary.md
+  - professional_assessment.md
 minima:
   skin: dark
   social_links:
