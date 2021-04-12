@@ -5,4 +5,12 @@ description: Content update coming shortly
 theme: minima
 minima:
   skin: dark
+  social_links:
+    twitter: Crakin17
+    github: CrakinDev
+    linkedin: Noel Hanna
+
+    youtube: CrakinDev
+    youtube_channel: UC7lYOjels3A_sw6g5f6Xyfg
+    youtube_channel_name: CrakinDev
 markdown: kramdown
