@@ -1,6 +1,6 @@
 ---
 layout: single
 title: Enhancements
-permalink: /enhancements/
+permalink: /project_enhancements
 ---
 
