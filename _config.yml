@@ -5,7 +5,7 @@ description: Content update coming shortly
 plugins:
   - jekyll-remote-theme
 
-remote_theme: CrakinDev/minima
+remote_theme: mmistakes/minimal-mistakes
 header_pages:
   - code_review.md
   - enhancement_one.md
@@ -19,7 +19,6 @@ minima:
     twitter: Crakin17
     github: CrakinDev
     linkedin: noel-hanna-81888684
-
     youtube_channel: UC7lYOjels3A_sw6g5f6Xyfg
     youtube_channel_name: CrakinDev
 markdown: kramdown
