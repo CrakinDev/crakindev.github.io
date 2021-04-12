@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "CS-499 Capstone Final Project"
 layout: splash
 permalink: /
 date: 2021-04-12T15:08:00-05:00
@@ -11,9 +11,9 @@ header:
     - label: "Get Started"
       url: "https://crakindev.github.io/project_summary/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "CS-499 Capstone Final Project"
+excerpt: "This project encompasses an ambitious full-stack application development utilizing a third-party game API supplied by Bungie Studios to obtain and aggregate player data stored in a MongoDB database and displayed in a front-end web dashboard. Additional connectivity is also available via a Discord bot developed with DiscordJS."
 intro: 
-  - excerpt: 'This project encompasses an ambitious full-stack application development utilizing a third-party game API supplied by Bungie Studios to obtain and aggregate player data stored in a MongoDB database and displayed in a front-end web dashboard. Additional connectivity is also available via a Discord bot developed with DiscordJS.'
+  - excerpt: ''
 feature_row:
   - image_path: /images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
