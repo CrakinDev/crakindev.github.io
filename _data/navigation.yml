@@ -2,6 +2,6 @@ main:
   - title: "Project Summary"
     url: /_pages/project_summary
   - title: "Enhancements"
-    url: /_pages/enhancements
+    url: /enhancements
   - title: "Professional Assessment"
     url: /_pages/professional_assessment
