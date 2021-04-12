@@ -23,28 +23,28 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /images/unsplash-gallery-image-1-th.jpg
+  - image_path: /images/enhancement-one.jpg
     alt: "Project Enhancement One"
     title: "Project Enhancement One"
     excerpt: "Discord bot development via DiscordJS Node module"
     url: "https://crakindev.github.io/portfolio/enhancement-1/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/unsplash-gallery-image-2-th.jpg
+  - image_path: /images/enhancement-two.jpg
     alt: "placeholder image 2"
     title: "Project Enhancement Two"
     excerpt: "Application API server development with Express"
     url: "https://crakindev.github.io/portfolio/enhancement-2/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/unsplash-gallery-image-3-th.jpg
+  - image_path: /images/enhancement-three.jpg
     title: "Project Enhancement Three"
     excerpt: "Application API server completion and React-based web dashboard."
     url: "https://crakindev.github.io/portfolio/enhancement-3/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /images/unsplash-gallery-image-2-th.jpg
+  - image_path: /images/prof-assessment.jpg
     alt: "Professional Self-Assessment"
     title: "Professional Self-Assessment"
     excerpt: 'My educational journey, CS program reflection, and professional experiences.'
