@@ -15,7 +15,7 @@ excerpt: "This project encompasses an ambitious full-stack application developme
 intro: 
   - excerpt: 'Project Aspects'
 feature_row:
-  - image_path: /images/unsplash-gallery-image-2-th.jpg
+  - image_path: /images/code-review-th.jpg
     alt: "Application Code Review"
     title: "Application Code Review"
     excerpt: 'Code review of all aspects of existing application boilerplate plus best practices. Code review video included.'
