@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Enhancement Two
+categories: 
+  - enhancement
 ---
 
 ## Project
