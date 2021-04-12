@@ -157,7 +157,7 @@ Example Activity Response from Bungie API (single activity, each activity has an
                }
             }
 ```
- 
+
 ## Objectives
 ---
 All original objectives were met, though if additional data wants to be fetched or kept from the activity fetch, the database schema would have to be modified. This can be easily done by modifying the database schema object in the application API when fetching data from the database. The applications are then free to use the added data in the response. This makes scalability much easier.
