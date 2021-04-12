@@ -11,47 +11,44 @@ header:
     - label: "Get Started"
       url: "https://crakindev.github.io/project_summary/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "This project encompasses an ambitious full-stack application development utilizing a third-party game API supplied by Bungie Studios to obtain and aggregate player data stored in a MongoDB database and displayed in a front-end web dashboard. Additional connectivity is also available via a Discord bot developed with DiscordJS."
+excerpt: "This project encompasses an ambitious full-stack application development utilizing a third-party game API supplied by Bungie Studios to aggregate player data, store in a MongoDB database and display in a front-end web dashboard. Additional connectivity is also available via a Discord bot developed with DiscordJS."
 intro: 
   - excerpt: ''
 feature_row:
-  - image_path: /images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "Application Code Review"
+    title: "Application Code Review"
+    excerpt: 'Code review of all aspects of existing application boilerplate plus best practices. Code review video included.'
+    url: "https://crakindev.github.io/code_review/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: /images/unsplash-gallery-image-1-th.jpg
+    alt: "Project Enhancement One"
+    title: "Project Enhancement One"
+    excerpt: "Discord bot development via DiscordJS Node module"
+    url: "https://crakindev.github.io/portfolio/enhancement-1/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "Project Enhancement Two"
+    excerpt: "Application API server development with Express"
+    url: "https://crakindev.github.io/portfolio/enhancement-2/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: /images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    title: "Project Enhancement Three"
+    excerpt: "Application API server completion and React-based web dashboard."
+    url: "https://crakindev.github.io/portfolio/enhancement-3/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    alt: "Professional Self-Assessment"
+    title: "Professional Self-Assessment"
+    excerpt: 'My educational journey, CS program reflection, and professional experiences.'
+    url: "https://crakindev.github.io/professional_assessment/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
