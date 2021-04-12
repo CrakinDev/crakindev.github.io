@@ -3,6 +3,11 @@ layout: page
 title: Enhancement Three
 ---
 
+## Project
+---
+[Xandrion Data API](https://github.com/CrakinDev/xandrion2-api)
+[Xandrion Dashboard](https://github.com/CrakinDev/xandrion2-dashboard)
+
 ## Artifact
 ---
 The artifact for this enhancement category is the Express-based NodeJS API server again. Its main purpose is to be a one-stop shop for both the Discord bot and web Dashboard’s to source data. This ensures the data is centrally located and both applications use and handle the same data through common accessing means. This enhancement addresses actual fetching of player activity data and storing it to a collection in the Mongo database under the “guardian-activities” collection.
