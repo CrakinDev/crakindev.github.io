@@ -5,20 +5,4 @@ description: Content update coming shortly
 plugins:
   - jekyll-remote-theme
 
-remote_theme: mmistakes/minimal-mistakes
-header_pages:
-  - code_review.md
-  - enhancement_one.md
-  - enhancement_two.md
-  - enhancement_three.md
-  - project_summary.md
-  - professional_assessment.md
-minima:
-  skin: dark
-  social_links:
-    twitter: Crakin17
-    github: CrakinDev
-    linkedin: noel-hanna-81888684
-    youtube_channel: UC7lYOjels3A_sw6g5f6Xyfg
-    youtube_channel_name: CrakinDev
-markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes@4.22.0
