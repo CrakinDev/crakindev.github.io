@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /images/splash-header.jpg
   actions:
-  - label: "Get Started"
+    - label: "Get Started"
       url: "https://crakindev.github.io/project_summary/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "CS-499 Capstone Final Project"
