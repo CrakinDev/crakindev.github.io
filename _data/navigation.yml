@@ -1,6 +1,8 @@
 main:
   - title: "Project Summary"
     url: /project_summary
+  - title: "Code Review"
+    url: /code_review
   - title: "Enhancements"
     url: /enhancements
   - title: "Professional Assessment"
