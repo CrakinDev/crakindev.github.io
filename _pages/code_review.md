@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Code Review
+permalink: /code_review/
 ---
 
 ## Overview
