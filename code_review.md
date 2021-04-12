@@ -3,4 +3,4 @@ layout: page
 title: Code Review
 ---
 
-Code Review Page
+{% include youtubePlayer.html id="Lxgj_8yOUfQ" %}
