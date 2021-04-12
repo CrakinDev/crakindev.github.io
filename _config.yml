@@ -2,7 +2,10 @@ title: CrakinDev
 description: Content update coming shortly
 
 # Build Settings
-theme: minima
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
