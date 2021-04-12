@@ -17,9 +17,15 @@ The specific components that showcase my abilities are two-fold. The first is ho
 
 ## Improvements
 ---
-The command structure outlined in the code review was revised to use some common properties to allow all commands needed access to parameters and parsing to use a common algorithm. Users are able to use the !last command and can specify a game activity type and number of activities to retrieve (ex: !last 5 strikes, returns averages from the last 5 strike activities).
+The command structure outlined in the code review was revised to use some common properties to allow all commands needed access to parameters and parsing to use a common algorithm. Users are able to use the !last command and can specify a game activity type and number of activities to retrieve.
 
-Users are also able to register to the bot utilizing the !registerme command. This command also takes parameters of a username and a platform (ex: !registerme Crakin Xbox). This is required to lookup the user profile on the Bungie API and return a membership ID. The membership ID can then be used to look up the character IDs associated with the account and then access activity statistics. Registration allows the bot to associate a Discord Account ID with the game membership ID/character IDs. This data is kept in the MongoDB database instance.
+Example:
+```
+!last 5 strikes
+```
+Returns averages from the last 5 strike activities.
+
+Users are also able to register to the bot utilizing the ```!registerme``` command. This command also takes parameters of a username and a platform (ex: ```!registerme Crakin Xbox```). This is required to lookup the user profile on the Bungie API and return a membership ID. The membership ID can then be used to look up the character IDs associated with the account and then access activity statistics. Registration allows the bot to associate a Discord Account ID with the game membership ID/character IDs. This data is kept in the MongoDB database instance.
 
 The database instance was setup and used lightly with the bot. A User collection stores a Discord ID and associated game membership and character IDs that were looked up during registration. This provides two key improvements: (1) the user does not have to specify their username and platform when issuing commands that retrieve stats and (2) the bot does not have to query the API for membership ID or character ID lookup. This improves lookup time and reduces API queries lessening the chance the bot or backend lookup gets throttled.
 
