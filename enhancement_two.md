@@ -3,6 +3,10 @@ layout: page
 title: Enhancement Two
 ---
 
+## Project
+---
+[Xandrion Data API](https://github.com/CrakinDev/xandrion2-api)
+
 ## Artifact
 ---
 The artifact for this enhancement category is an Express-based NodeJS API server. Its purpose is to be a one-stop shop for both the Discord bot and web Dashboard’s to source data. This ensures the data is centrally located and both applications use and handle the same data through common accessing means.
