@@ -6,6 +6,11 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: CrakinDev/minima
+header_pages:
+  - code_review.md
+  - enhancement_one.md
+  - enhancement_two.md
+  - enhancement_three.md
 minima:
   skin: dark
   social_links:
