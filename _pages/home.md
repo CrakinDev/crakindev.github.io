@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "This project encompasses an ambitious full-stack application development utilizing a third-party game API supplied by Bungie Studios to aggregate player data, store in a MongoDB database and display in a front-end web dashboard. Additional connectivity is also available via a Discord bot developed with DiscordJS."
 intro: 
-  - excerpt: 'Main Excerpt'
+  - excerpt: 'Project Aspects'
 feature_row:
   - image_path: /images/unsplash-gallery-image-2-th.jpg
     alt: "Application Code Review"
