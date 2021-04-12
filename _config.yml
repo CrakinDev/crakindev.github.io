@@ -3,5 +3,6 @@ description: Content update coming shortly
 
 # Build Settings
 theme: minima
+minima:
   skin: dark
 markdown: kramdown
