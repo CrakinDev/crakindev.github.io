@@ -4,7 +4,7 @@ description: Content update coming shortly
 author:
   name: "Noel Hanna"
   avatar: "/assets/images/profile-image.jpg"
-  bio: "Software Engineer | Game Dev" # Note: Markdown is allowed
+  bio: "Software Engineer / Game Dev" # Note: Markdown is allowed
   location: "San Antonio, TX"
   links:
     - label: "Twitter"
@@ -13,7 +13,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CrakinDev"
-    - label: "Instagram"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/noel-hanna-81888684/"
 
@@ -61,5 +61,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-theme: jekyll-theme-architect
