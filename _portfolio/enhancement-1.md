@@ -10,6 +10,7 @@ categories:
 
 ## Project
 ---
+The project for this enhancement can be found on GitHub.
 [Xandrion Discord Bot](https://github.com/CrakinDev/xandrion2-bot)
 
 ## Artifact
