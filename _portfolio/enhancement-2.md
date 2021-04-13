@@ -3,6 +3,7 @@ layout: single
 title: Enhancement Two
 categories: 
   - enhancement
+tagline: "Node/Express Custom Web API"
 header:
   overlay_image: /assets/images/enhancement-two.jpg
   overlay_filter: 0.5
