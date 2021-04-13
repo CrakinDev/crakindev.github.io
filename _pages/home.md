@@ -14,7 +14,7 @@ header:
 excerpt: "This project encompasses an ambitious full-stack application development utilizing a third-party game API supplied by Bungie Studios to aggregate player data, store in a MongoDB database and display in a front-end web dashboard. Additional connectivity is also available via a Discord bot developed with DiscordJS."
 intro: 
   - excerpt: 'Project Aspects'
-feature_row:
+code_review:
   - image_path: /assets/images/code-review-th.jpg
     alt: "Application Code Review"
     title: "Application Code Review"
@@ -22,7 +22,7 @@ feature_row:
     url: "https://crakindev.github.io/code_review/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row2:
+enhancements:
   - image_path: /assets/images/enhancement-one-th.jpg
     alt: "Project Enhancement One"
     title: "Project Enhancement One"
@@ -43,7 +43,7 @@ feature_row2:
     url: "https://crakindev.github.io/portfolio/enhancement-3/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+prof_assessment:
   - image_path: /assets/images/prof-assessment-th.jpg
     alt: "Professional Self-Assessment"
     title: "Professional Self-Assessment"
@@ -55,8 +55,10 @@ feature_row3:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type = "left" %}
+{% include feature_row id="prof_assessment" type="left" %}
 
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="code_review" type = "right" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="enhancements" %}
+
+
