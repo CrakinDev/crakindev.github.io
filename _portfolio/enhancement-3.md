@@ -3,6 +3,7 @@ layout: single
 title: Enhancement Three
 categories: 
   - enhancement
+tagline: "Node/Express Custom Web API + React Web Application"
 header:
   overlay_image: /assets/images/enhancement-three.jpg
   overlay_filter: 0.5
