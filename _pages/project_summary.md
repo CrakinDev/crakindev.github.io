@@ -2,6 +2,9 @@
 layout: single
 title: Project Summary
 permalink: /project_summary/
+header:
+  overlay_image: /assets/images/splash-header.jpg
+  overlay_filter: 0.5
 ---
 
 ## Overview
