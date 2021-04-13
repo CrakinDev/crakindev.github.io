@@ -29,6 +29,9 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 include: ["_pages"]
 
+atom_feed:
+  hide: true
+
 collections:
   portfolio:
     output: true
