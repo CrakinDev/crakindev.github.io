@@ -1,11 +1,11 @@
 ---
 layout: single
 title: Enhancement One
-categories: 
-  - enhancement
 header:
   overlay_image: /assets/images/enhancement-one.jpg
   overlay_filter: 0.5
+categories: 
+  - enhancement
 ---
 
 ## Project
