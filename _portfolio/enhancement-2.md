@@ -3,6 +3,9 @@ layout: single
 title: Enhancement Two
 categories: 
   - enhancement
+header:
+  overlay_image: /assets/images/enhancement-two.jpg
+  overlay_filter: 0.5
 ---
 
 ## Project
