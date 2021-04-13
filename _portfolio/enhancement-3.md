@@ -166,7 +166,7 @@ Example Activity Response from Bungie API (single activity, each activity has an
             }
 ```
 Example Activity Entry:
-![Image of Activity Entry](../images/ActivityEntry.png)
+![Image of Activity Entry](../assets/images/ActivityEntry.png)
 
 ## Objectives
 ---
