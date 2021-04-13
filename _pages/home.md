@@ -6,7 +6,7 @@ date: 2021-04-12T15:08:00-05:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/splash-header.jpg
+  overlay_image: /assets/images/splash-header.jpg
   actions:
     - label: "Get Started"
       url: "https://crakindev.github.io/project_summary/"
@@ -15,7 +15,7 @@ excerpt: "This project encompasses an ambitious full-stack application developme
 intro: 
   - excerpt: 'Project Aspects'
 feature_row:
-  - image_path: /images/code-review-th.jpg
+  - image_path: /assets/images/code-review-th.jpg
     alt: "Application Code Review"
     title: "Application Code Review"
     excerpt: 'Code review of all aspects of existing application boilerplate plus best practices. Code review video included.'
@@ -23,28 +23,28 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /images/enhancement-one.jpg
+  - image_path: /assets/images/enhancement-one.jpg
     alt: "Project Enhancement One"
     title: "Project Enhancement One"
     excerpt: "Discord bot development via DiscordJS Node module."
     url: "https://crakindev.github.io/portfolio/enhancement-1/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/enhancement-two.jpg
+  - image_path: /assets/images/enhancement-two.jpg
     alt: "placeholder image 2"
     title: "Project Enhancement Two"
     excerpt: "Application API server development with Node/Express."
     url: "https://crakindev.github.io/portfolio/enhancement-2/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/enhancement-three.jpg
+  - image_path: /assets/images/enhancement-three.jpg
     title: "Project Enhancement Three"
     excerpt: "Application API server completion and React-based web dashboard."
     url: "https://crakindev.github.io/portfolio/enhancement-3/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /images/prof-assessment.jpg
+  - image_path: /assets/images/prof-assessment.jpg
     alt: "Professional Self-Assessment"
     title: "Professional Self-Assessment"
     excerpt: 'My educational journey, CS program reflection, and professional experiences.'
