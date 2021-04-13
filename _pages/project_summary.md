@@ -19,4 +19,4 @@ A MongoDB instance was used to store user session data in the web dashboard. Thi
 These applications rely heavily on Javascript’s Promise algorithm specifications. These are used in instances where data is fetched or read from a remote resource and return a Promise object with callbacks. The callbacks are executed once the data has (or has not) successfully been returned. On top of this, mapped data must be kept in memory when accessing hashed data from the Bungie API. Activity data is returned with common values such as activity names and stats names as hash ID numbers. These numbers are intended to be looked up and referenced from a downloadable manifest JSON. This JSON allows Bungie to update data on their end such as names and descriptions while keeping it encapsulated from implementations. Hashed data can be requested from the API but is meant to be referenced from the manifest file especially if there are numerous values you intend to reference.
  
 ## Application Flowchart
-![Image of Application Flowchart](../images/project-flowchart.png)
+![Image of Application Flowchart](../assets/images/project-flowchart.png)
