@@ -4,6 +4,7 @@ title: Code Review
 permalink: /code_review/
 header:
   overlay_image: /assets/images/code-review.jpg
+  overlay_filter: 0.5
 ---
 
 ## Overview
