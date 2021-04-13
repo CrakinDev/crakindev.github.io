@@ -2,6 +2,8 @@
 layout: single
 title: Code Review
 permalink: /code_review/
+header:
+  image: /assets/images/code-review-th.jpg
 ---
 
 ## Overview
