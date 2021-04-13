@@ -3,7 +3,7 @@ layout: single
 title: Code Review
 permalink: /code_review/
 header:
-  overlay_image: /assets/images/code-review-th.jpg
+  overlay_image: /assets/images/code-review.jpg
 ---
 
 ## Overview
