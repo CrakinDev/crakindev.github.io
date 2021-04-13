@@ -23,5 +23,5 @@ Naming and commenting are my second big-ticket items for code reviews. If the or
 
 ## Application Code Review
 ---
-{% include video id="XsxDH4HcOWA" provider="youtube" %}
+{% include video id="Lxgj_8yOUfQ" provider="youtube" %}
 
