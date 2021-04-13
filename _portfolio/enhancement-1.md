@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Enhancement One
+tagline: "Node/DiscordJS Discord Bot"
 header:
   overlay_image: /assets/images/enhancement-one.jpg
   overlay_filter: 0.5
