@@ -27,6 +27,10 @@ Client-Server Development (CS-340) was a class that formally introduced me to Mo
 
 Lastly was Computer Graphics and Visualization (CS-330). Coming from positions that heavily relied on game engines for producing content, this course was right up my alley. While the course used OpenGL instead of DirectX, I was able to get a glimpse into the inner workings of many popular 3D web renderers I had used in the past. This course and the concepts presented to setup, configure, and develop a scene in OpenGL with C++ is the lifeblood of my career as it is today.
 
+## Capstone & Strengths
+The project I chose to showcase for the capstone was a large full-stack application with multiple aspects that each feature a unique trait. While I would love to develop a small game or application using some of the programs I use on a day-to-day, that was not feasible in a 7-week timespan. Having worked with media development and, more recently, full-stack web applications, I wanted to create something that was both technically challenging but also relevant. I also wanted to develop something from scratch as a challenge to myself to learn some new concepts and frameworks within a limited time allotment. For the full project breakdown, see the [Project Summary](/project_summary/).
+
+
 ## The Now and Future
 ---
 Not too long after I started my journey at SNHU, I transitioned to a new position in San Antonio in October 2019. It is still within the government contracting sector and still develops military training and simulations. This time, however, we develop both eBook solutions and full VR 3D simulations within Unreal Engine 4. It is like graduating to the big leagues of training development and one that I have taken full advantage of. As a Lead/Senior Developer I can make use of my previous experience while still tackling new challenges like never before, and as of May 2021, will finally be armed with my Bachelor’s in Computer Science I began long ago. 
