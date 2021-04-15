@@ -4,6 +4,7 @@ title: Enhancement One
 tagline: "Node/DiscordJS Discord Bot"
 excerpt: "Node/DiscordJS Discord Bot"
 header:
+  teaser: /assets/images/enhancement-one-th.jpg
   overlay_image: /assets/images/enhancement-one.jpg
   overlay_filter: 0.5
 categories: 
