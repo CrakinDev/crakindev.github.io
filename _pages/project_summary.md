@@ -36,12 +36,16 @@ Discord oAuth2 Page/Redirect
 
 Database Collections/Entries
 ![Image of Database Collection](../assets/images/DB_Discord_Users.png)
+
 ![Image of Database Collection](../assets/images/DB_Guardian_Activities.png)
 
 Dashboard
 ![Image of Dashboard](../assets/images/Dashboard_1.png)
+
 ![Image of Dashboard](../assets/images/Dashboard_2.png)
+
 ![Image of Dashboard](../assets/images/Dashboard_3.png)
 
 Discord Integration
+
 ![Image of Discord Integration](../assets/images/Discord_Integration.png)
