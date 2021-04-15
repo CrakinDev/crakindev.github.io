@@ -34,6 +34,10 @@ Registration Page
 Discord oAuth2 Page/Redirect
 ![Image of oAuth2 Page](../assets/images/Discord_oAuth.png)
 
+Database Collections/Entries
+![Image of Database Collection](../assets/images/DB_Discord_Users.png)
+![Image of Database Collection](../assets/images/DB_Guardian_Activities.png)
+
 Dashboard
 ![Image of Dashboard](../assets/images/Dashboard_1.png)
 ![Image of Dashboard](../assets/images/Dashboard_2.png)
