@@ -42,3 +42,6 @@ Dashboard
 ![Image of Dashboard](../assets/images/Dashboard_1.png)
 ![Image of Dashboard](../assets/images/Dashboard_2.png)
 ![Image of Dashboard](../assets/images/Dashboard_3.png)
+
+Discord Integration
+![Image of Discord Integration](../assets/images/Discord_Integration.png)
