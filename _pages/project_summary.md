@@ -23,3 +23,18 @@ These applications rely heavily on Javascript’s Promise algorithm specificatio
  
 ## Application Flowchart
 ![Image of Application Flowchart](../assets/images/project-flowchart.png)
+
+## Application Final Result
+Login Page
+![Image of Login Page](../assets/images/Login.png)
+
+Registration Page
+![Image of Registration Page](../assets/images/Register.png)
+
+Discord oAuth2 Page/Redirect
+![Image of oAuth2 Page](../assets/images/Discord_oAuth.png)
+
+Dashboard
+![Image of Dashboard](../assets/images/Dashboard_1.png)
+![Image of Dashboard](../assets/images/Dashboard_2.png)
+![Image of Dashboard](../assets/images/Dashboard_3.png)
