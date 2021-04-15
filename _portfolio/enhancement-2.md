@@ -6,6 +6,7 @@ categories:
 tagline: "Node/Express Custom Web API"
 excerpt: "Node/Express Custom Web API"
 header:
+  teaser: /assets/images/enhancement-two-th.jpg
   overlay_image: /assets/images/enhancement-two.jpg
   overlay_filter: 0.5
 ---
