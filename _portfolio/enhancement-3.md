@@ -6,6 +6,7 @@ categories:
 tagline: "Node/Express Custom Web API + React Web Application"
 excerpt: "Node/Express Custom Web API + React Web Application"
 header:
+  teaser: /assets/images/enhancement-three-th.jpg
   overlay_image: /assets/images/enhancement-three.jpg
   overlay_filter: 0.5
 ---
